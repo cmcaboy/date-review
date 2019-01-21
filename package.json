@@ -1,0 +1,5 @@
+{
+	"private": true,
+	"workspaces": ["date-review-web", "date-review-server"]
+}
+
